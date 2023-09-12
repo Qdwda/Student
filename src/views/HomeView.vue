@@ -103,9 +103,7 @@ export default {
             console.error('Error fetching data:', error);
           });
     },
-    update(){
 
-    }
   },
 };
 </script>
